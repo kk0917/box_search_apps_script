@@ -13,12 +13,7 @@
   },
   "dependencies": {
     "@types/google-apps-script": "^1.0.22",
+    "box-ui-elements": "^12.0.0",
     "dotenv": "^8.2.0"
-  },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://www.opensource.org/licenses/mit-license.php"
-    }
-  ]
+  }
 }

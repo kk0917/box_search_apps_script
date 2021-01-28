@@ -14,6 +14,7 @@
 When you exec clasp command, If you add the prefix `yarn run` to it, it works reliably
 
 `> yarn run clasp clone <scriptId> --rootDir ./src`
+`> yarn run clasp push`
 
 ### Additional files required
 
